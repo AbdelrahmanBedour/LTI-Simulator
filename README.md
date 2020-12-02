@@ -15,7 +15,7 @@ Finally, the input (either step or impulse) is plotted along with the output of 
     4. The input, output, and states are plotted from t=0 to t=10 sec
 **Note that the simulator works for any order n with or without input derivatives.
 
-The simulation is written in MATLAB and using the GUI of THe MATLAB to make sure that the graphs were well displayed in the GUI respectively.
+The simulation is written in MATLAB and using the GUI of the MATLAB to make sure that the graphs were well displayed in the GUI respectively.
 
 
 
